@@ -1,3 +1,3 @@
-module github.com/thetannerryan/ring
+module github.com/perseveringin/ring
 
 go 1.12
